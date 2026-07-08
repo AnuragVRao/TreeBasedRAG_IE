@@ -6,7 +6,7 @@ export function Header() {
           <img src="/logo.png" alt="EywaAI logo" className="h-8 w-8 rounded-lg object-cover" />
           <div>
             <h1 className="text-lg font-medium tracking-tight text-foreground">
-              EywaAI | TreeRAG
+              EywaAI
             </h1>
           </div>
         </div>
